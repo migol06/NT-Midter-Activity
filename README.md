@@ -2,6 +2,8 @@
 
 This project serves as a website for your first AWS Laboratory. Your task is to launch it on AWS EC2.
 
+![Getting Started](image.png)
+
 ## Steps to Launch the Website on AWS EC2
 
 ### 1. Create a VPC with Two Availability Zones
